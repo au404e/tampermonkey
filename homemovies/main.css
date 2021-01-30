@@ -33,5 +33,5 @@ input#searchform-field-white {
 	color: rgb(32, 32, 32)
 }
 .bg-grey {
-    background-color: rgb(32, 32, 32);
+    background-color: rgb(32, 32, 32) !important;
 }
