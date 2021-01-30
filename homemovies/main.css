@@ -1,12 +1,27 @@
-#page-content {
-    background-color: black !important;
+header, body, section, footer, #page-content, #cat-nav,:after, :before {
+    background-color: rgb(32, 32, 32) !important;
 }
-h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-	color: white !important;
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, span,
+#logo-nav .nav-icon .dd-menu span:before, .copyright
+{
+	color: rgb(218, 218, 218) !important;
+}
+#search-btn .search-block input.searchform-submit {
+	color: rgb(218, 218, 218) !important;
+	background-color: rgb(218, 218, 218) !important;
 }
 a {
-    color: white !important;
+    color: rgb(218, 218, 218) !important;
+	background: rgb(32, 32, 32) !important;
+	background-color: rgb(32, 32, 32) !important;
 }
-#content {
-	background-color: black;
+.pagination li span, .pagination li a, .pagination ul span.pagination_dotts, .pagination ul li.next a {
+	background-color: rgb(32, 32, 32);
+	color: rgb(218, 218, 218);
+}
+.film-item .film-item-inner, #upload-btn a.button {
+    bottom-bottom-color: rgb(32, 32, 32);	
+    bottom-bottom: rgb(32, 32, 32);
+    border-bottom: rgb(32, 32, 32);
+	border: rgb(32, 32, 32);
 }
