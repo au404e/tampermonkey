@@ -1,9 +1,9 @@
 #page-content {
-    background-color: black;
+    background-color: black !important;
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-	color: white;
+	color: white !important;
 }
 a {
-    color: white;
+    color: white !important;
 }
