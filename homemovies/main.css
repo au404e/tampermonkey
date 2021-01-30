@@ -2,9 +2,13 @@ header, body, section, footer, #page-content, #cat-nav,:after, :before {
     background-color: rgb(32, 32, 32) !important;
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, span,
-#logo-nav .nav-icon .dd-menu span:before, .copyright
+#logo-nav .nav-icon .dd-menu span:before, .copyright, .login-description
 {
 	color: rgb(218, 218, 218) !important;
+}
+#search-2, #search-btn .search-block input.searchform-submit {
+	background-color: rgb(218, 218, 218) !important;
+    color: rgb(32, 32, 32) !important;
 }
 a {
     color: rgb(218, 218, 218) !important;
@@ -27,4 +31,7 @@ input#searchform-field-white {
 #search-btn .search-block input.searchform-submit, #search-btn .s-form #search-2 {
 	background-color: rgb(218, 218, 218);
 	color: rgb(32, 32, 32)
+}
+.bg-grey {
+    background-color: rgb(32, 32, 32);
 }
