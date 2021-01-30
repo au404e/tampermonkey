@@ -38,3 +38,12 @@ input#searchform-field-white {
 form button, form input[type="submit"] {
 	background-color: rgb(32, 32, 32) !important;
 }
+section#item-main-stats .left-side {
+	background-color: rgb(32, 32, 32);
+}
+nav.item-nav ul.b-list li {
+    border-right: none;
+}
+label {
+    color: rgb(218, 218, 218);
+}
