@@ -47,3 +47,6 @@ nav.item-nav ul.b-list li {
 label {
     color: rgb(218, 218, 218) !important;
 }
+.fluid_video_wrapper :after, .fluid_video_wrapper :before {
+    background-color: inherit !important;
+}
