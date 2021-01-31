@@ -1,0 +1,24 @@
+body, .top-section, .list li {
+    background: #494949;
+}
+#header, .footer-holder {
+    background: #494949;
+}
+.details ul li, a {
+	color: rgb(218, 218, 218) !important;
+}
+.nav-bar {
+    background-color: #494949;
+}
+.list li {
+    border: none;
+}
+#hashtag_ticker a {
+    color: rgb(218, 218, 218);
+}
+.sub-nav li a {
+	background: #494949 !important;
+}
+.top-section {
+	border-bottom: none;
+}
