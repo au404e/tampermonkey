@@ -1,0 +1,13 @@
+.album .album-title {
+    top: 185px;
+	max-height: 25px;
+}
+.album .album-bottom-right, .album .album-bottom-user {
+	bottom: -30px;
+}
+.col-lg-2 {
+    margin-bottom: 45px;
+}
+.album .album-bottom-user, .album .album-bottom-views {
+	max-width: 100%;
+}
