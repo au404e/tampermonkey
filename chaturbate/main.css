@@ -23,8 +23,8 @@ body, .top-section, .list li, #header #user_information .user_information_header
     color: rgb(218, 218, 218);
 }
 .paging li a.prev, .paging li a.prev:hover {
-    background: #fceadb url(../../images/arrow-left.gif?ce3332e1d85f) no-repeat 50% 50% !important;
+    background: #fceadb url(https://static-assets.highwebmedia.com/images/arrow-left.gif?ce3332e1d85f) no-repeat 50% 50% !important;
 }
 .paging li a.next, .paging li a.next:hover {
-    background: #fceadb url(../../images/arrow-right.gif?70f424c35037) no-repeat 50% 50% !important;
+    background: #fceadb url(https://static-assets.highwebmedia.com/images/arrow-right.gif?70f424c35037) no-repeat 50% 50% !important;
 }
