@@ -1,14 +1,10 @@
-body, .top-section, .list li, #header #user_information .user_information_header {
-    background: #494949 !important;
-}
-#header, .footer-holder {
+body, .top-section, .list li, #header #user_information .user_information_header,
+#header, .footer-holder, .paging li a, .nav-bar, .sub-nav li a,
+#header #user_information .bottom {
     background: #494949 !important;
 }
 .details ul li, a, th, td {
 	color: rgb(218, 218, 218) !important;
-}
-.nav-bar {
-    background-color: #494949 !important;
 }
 #header #user_information .userInfoDropdownBgColor {
     background-color: #494949 !important;
@@ -20,12 +16,6 @@ body, .top-section, .list li, #header #user_information .user_information_header
 #hashtag_ticker a {
     color: rgb(218, 218, 218) !important;
 }
-.sub-nav li a {
-	background: #494949 !important;
-}
 .top-section {
-	border-bottom: none !important;
-}
-#header #user_information .bottom {
-	background-color: #494949;
+    border-bottom: none !important;
 }
