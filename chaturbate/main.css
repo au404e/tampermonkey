@@ -1,5 +1,5 @@
 body, .top-section, .list li, #header #user_information .user_information_header,
-#header, .footer-holder, a,
+#header, .footer-holder, a, .nav-bar,
 #header #user_information .bottom {
     background: #494949 !important;
 }
