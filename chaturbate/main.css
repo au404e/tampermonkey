@@ -4,7 +4,7 @@ body, .top-section, .list li {
 #header, .footer-holder {
     background: #494949 !important;
 }
-.details ul li, a {
+.details ul li, a, th, td {
 	color: rgb(218, 218, 218) !important;
 }
 .nav-bar {
@@ -21,4 +21,7 @@ body, .top-section, .list li {
 }
 .top-section {
 	border-bottom: none !important;
+}
+#header #user_information .bottom {
+	background-color: #494949;
 }
