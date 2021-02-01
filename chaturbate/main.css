@@ -1,4 +1,4 @@
-body, .top-section, .list li {
+body, .top-section, .list li, #header #user_information .user_information_header {
     background: #494949 !important;
 }
 #header, .footer-holder {
@@ -10,7 +10,7 @@ body, .top-section, .list li {
 .nav-bar {
     background-color: #494949 !important;
 }
-.list li {
+.list li, #header #user_information {
     border: none !important;
 }
 #hashtag_ticker a {
