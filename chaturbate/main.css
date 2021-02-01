@@ -7,8 +7,12 @@ body, .top-section, .list li, #header #user_information .user_information_header
 .details ul li, a, th, td {
 	color: rgb(218, 218, 218) !important;
 }
-.nav-bar, #header #user_information .userInfoDropdownBgColor {
+.nav-bar {
     background-color: #494949 !important;
+}
+#header #user_information .userInfoDropdownBgColor {
+    background-color: #494949 !important;
+    border: none !important;
 }
 .list li, #header #user_information {
     border: none !important;
