@@ -11,3 +11,6 @@
 .album .album-bottom-user, .album .album-bottom-views {
 	max-width: 40%;
 }
+.lg-toolbar.lg-group {
+	background: transparent;
+}
