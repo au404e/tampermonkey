@@ -1,3 +1,4 @@
+@media screen and (min-width: 1366px)
 .index-videos .thumb-list .wio-cright-rectangle~.thumb-list__item:nth-child(3), .index-videos .thumb-list .wio-cright-rectangle~.thumb-list__item:nth-child(5), .index-videos .thumb-list .wio-cright-rectangle~.thumb-list__look-like-item:nth-child(3), .index-videos .thumb-list .wio-cright-rectangle~.thumb-list__look-like-item:nth-child(5) {
     margin-right: 0px !important;
 }
